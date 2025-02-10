@@ -1,0 +1,501 @@
+Roll_no,Name,Club_joined_1,Club_joined_2,Club_joined_3,Activities_interested
+R0001,Aarav Joshi,Literary Club,Drama Club,Art Club,"Hackathon, Theater Play"
+R0002,Ananya Mehta,Tech Club,Art Club,Dance Club,Music Concert
+R0003,Rohan Gupta,Tech Club,Music Club,Dance Club,"Football Match, Painting Workshop"
+R0004,Rohan Mehta,Music Club,Sports Club,Literary Club,"Music Concert, Debate, Hackathon, Football Match"
+R0005,Navya Gupta,Literary Club,Music Club,Dance Club,"Debate, Hackathon, Theater Play"
+R0006,Ananya Sharma,Tech Club,Sports Club,Drama Club,"Theater Play, Music Concert"
+R0007,Rohan Agarwal,Drama Club,Dance Club,Sports Club,"Hackathon, Music Concert, Theater Play"
+R0008,Vivaan Kapoor,Drama Club,Art Club,Music Club,"Debate, Music Concert, Theater Play, Football Match"
+R0009,Vihaan Bhat,Sports Club,Art Club,Tech Club,Theater Play
+R0010,Aarav Agarwal,Tech Club,Literary Club,Art Club,"Dance Battle, Painting Workshop, Hackathon, Theater Play"
+R0011,Aditi Bhat,Dance Club,Literary Club,Art Club,Debate
+R0012,Aarav Gupta,Drama Club,Literary Club,Sports Club,"Football Match, Theater Play, Music Concert, Debate"
+R0013,Ishaan Patel,Dance Club,Art Club,Music Club,"Music Concert, Debate, Football Match, Hackathon"
+R0014,Ananya Kapoor,Art Club,Sports Club,Dance Club,"Theater Play, Debate"
+R0015,Rohan Joshi,Art Club,Drama Club,Music Club,"Debate, Painting Workshop, Hackathon, Dance Battle"
+R0016,Saanvi Joshi,Literary Club,Music Club,Drama Club,"Painting Workshop, Theater Play, Football Match, Music Concert"
+R0017,Rohan Gupta,Art Club,Tech Club,Drama Club,Music Concert
+R0018,Kabir Patel,Art Club,Literary Club,Tech Club,Theater Play
+R0019,Aarav Gupta,Sports Club,Literary Club,Drama Club,"Hackathon, Music Concert, Painting Workshop"
+R0020,Ishaan Agarwal,Music Club,Tech Club,Art Club,"Painting Workshop, Hackathon"
+R0021,Navya Sharma,Music Club,Literary Club,Tech Club,"Music Concert, Debate"
+R0022,Vivaan Gupta,Tech Club,Dance Club,Music Club,"Music Concert, Football Match, Hackathon, Debate"
+R0023,Vivaan Gupta,Sports Club,Tech Club,Drama Club,Dance Battle
+R0024,Kabir Kapoor,Drama Club,Literary Club,Tech Club,"Debate, Dance Battle, Theater Play, Painting Workshop"
+R0025,Aarav Bhat,Literary Club,Music Club,Drama Club,"Painting Workshop, Dance Battle"
+R0026,Rohan Kapoor,Sports Club,Tech Club,Music Club,Music Concert
+R0027,Aarav Joshi,Literary Club,Music Club,Art Club,"Football Match, Theater Play, Dance Battle"
+R0028,Aarav Kumar,Art Club,Tech Club,Drama Club,"Painting Workshop, Football Match, Hackathon, Theater Play"
+R0029,Aarav Patel,Tech Club,Art Club,Sports Club,"Dance Battle, Painting Workshop"
+R0030,Navya Gupta,Literary Club,Drama Club,Sports Club,"Debate, Football Match, Dance Battle, Hackathon"
+R0031,Ananya Kapoor,Music Club,Art Club,Literary Club,"Hackathon, Music Concert, Theater Play"
+R0032,Ishaan Kumar,Literary Club,Drama Club,Music Club,"Painting Workshop, Hackathon"
+R0033,Rohan Gupta,Sports Club,Tech Club,Literary Club,"Theater Play, Painting Workshop"
+R0034,Vivaan Verma,Music Club,Art Club,Tech Club,"Theater Play, Football Match, Music Concert"
+R0035,Kabir Gupta,Art Club,Drama Club,Sports Club,"Theater Play, Painting Workshop"
+R0036,Kabir Sharma,Tech Club,Music Club,Drama Club,"Debate, Music Concert, Football Match, Theater Play"
+R0037,Saanvi Sharma,Drama Club,Tech Club,Literary Club,"Painting Workshop, Hackathon, Dance Battle, Football Match"
+R0038,Aarav Verma,Tech Club,Art Club,Music Club,"Debate, Hackathon, Football Match"
+R0039,Rohan Agarwal,Sports Club,Dance Club,Music Club,"Debate, Music Concert"
+R0040,Kabir Gupta,Art Club,Drama Club,Music Club,"Painting Workshop, Hackathon, Theater Play, Dance Battle"
+R0041,Navya Patel,Dance Club,Art Club,Drama Club,"Music Concert, Theater Play, Painting Workshop, Debate"
+R0042,Saanvi Agarwal,Dance Club,Tech Club,Sports Club,"Theater Play, Hackathon, Painting Workshop, Music Concert"
+R0043,Ananya Joshi,Sports Club,Literary Club,Art Club,"Music Concert, Theater Play, Football Match, Debate"
+R0044,Aarav Kumar,Dance Club,Literary Club,Drama Club,"Music Concert, Hackathon"
+R0045,Aarav Agarwal,Art Club,Drama Club,Music Club,"Debate, Football Match"
+R0046,Saanvi Kumar,Art Club,Dance Club,Sports Club,"Music Concert, Debate, Theater Play"
+R0047,Ananya Verma,Tech Club,Music Club,Drama Club,Debate
+R0048,Aditi Verma,Sports Club,Drama Club,Tech Club,Football Match
+R0049,Navya Patel,Music Club,Drama Club,Art Club,"Theater Play, Hackathon, Music Concert, Dance Battle"
+R0050,Vivaan Agarwal,Music Club,Tech Club,Art Club,"Hackathon, Painting Workshop"
+R0051,Navya Verma,Tech Club,Art Club,Drama Club,"Painting Workshop, Dance Battle, Football Match, Music Concert"
+R0052,Navya Agarwal,Tech Club,Music Club,Dance Club,"Hackathon, Music Concert"
+R0053,Kabir Sharma,Art Club,Tech Club,Drama Club,"Football Match, Dance Battle, Music Concert, Painting Workshop"
+R0054,Navya Joshi,Literary Club,Tech Club,Art Club,"Painting Workshop, Football Match, Music Concert"
+R0055,Vivaan Sharma,Sports Club,Music Club,Tech Club,"Football Match, Music Concert"
+R0056,Rohan Agarwal,Drama Club,Dance Club,Literary Club,"Football Match, Hackathon"
+R0057,Aarav Mehta,Tech Club,Sports Club,Drama Club,"Football Match, Theater Play"
+R0058,Saanvi Agarwal,Literary Club,Art Club,Music Club,"Painting Workshop, Hackathon, Debate"
+R0059,Ishaan Verma,Dance Club,Sports Club,Tech Club,"Music Concert, Hackathon, Debate"
+R0060,Ananya Kumar,Dance Club,Tech Club,Art Club,"Debate, Dance Battle"
+R0061,Ananya Sharma,Tech Club,Art Club,Drama Club,"Dance Battle, Theater Play"
+R0062,Aarav Kumar,Sports Club,Tech Club,Literary Club,"Music Concert, Painting Workshop, Hackathon, Dance Battle"
+R0063,Vivaan Mehta,Sports Club,Tech Club,Dance Club,"Debate, Hackathon, Dance Battle"
+R0064,Saanvi Verma,Art Club,Dance Club,Music Club,"Hackathon, Debate"
+R0065,Vihaan Kumar,Art Club,Drama Club,Tech Club,"Dance Battle, Music Concert, Football Match, Debate"
+R0066,Vihaan Kumar,Dance Club,Tech Club,Drama Club,"Theater Play, Painting Workshop, Music Concert, Hackathon"
+R0067,Ananya Verma,Literary Club,Drama Club,Tech Club,"Painting Workshop, Music Concert, Hackathon"
+R0068,Navya Bhat,Dance Club,Drama Club,Music Club,Dance Battle
+R0069,Ishaan Mehta,Dance Club,Sports Club,Music Club,"Debate, Painting Workshop"
+R0070,Vivaan Kumar,Literary Club,Drama Club,Sports Club,Debate
+R0071,Aditi Sharma,Tech Club,Art Club,Sports Club,"Debate, Theater Play, Football Match, Dance Battle"
+R0072,Vivaan Mehta,Literary Club,Music Club,Drama Club,Hackathon
+R0073,Kabir Mehta,Dance Club,Sports Club,Art Club,"Theater Play, Hackathon, Dance Battle, Debate"
+R0074,Vivaan Kumar,Sports Club,Art Club,Literary Club,"Debate, Painting Workshop"
+R0075,Ishaan Verma,Art Club,Tech Club,Drama Club,Dance Battle
+R0076,Aarav Patel,Dance Club,Tech Club,Music Club,"Hackathon, Theater Play, Football Match, Dance Battle"
+R0077,Kabir Patel,Drama Club,Sports Club,Literary Club,Debate
+R0078,Vihaan Mehta,Literary Club,Dance Club,Drama Club,"Debate, Football Match, Dance Battle"
+R0079,Aditi Mehta,Tech Club,Music Club,Dance Club,Painting Workshop
+R0080,Saanvi Mehta,Dance Club,Sports Club,Literary Club,"Dance Battle, Debate"
+R0081,Navya Gupta,Sports Club,Music Club,Art Club,"Theater Play, Debate"
+R0082,Ananya Sharma,Dance Club,Tech Club,Sports Club,"Hackathon, Music Concert, Theater Play"
+R0083,Saanvi Mehta,Tech Club,Art Club,Drama Club,Painting Workshop
+R0084,Aarav Mehta,Music Club,Dance Club,Art Club,Football Match
+R0085,Aarav Joshi,Art Club,Dance Club,Tech Club,Theater Play
+R0086,Vihaan Verma,Music Club,Sports Club,Literary Club,"Hackathon, Football Match, Debate, Theater Play"
+R0087,Saanvi Bhat,Art Club,Tech Club,Sports Club,"Painting Workshop, Theater Play"
+R0088,Aarav Kapoor,Literary Club,Dance Club,Tech Club,"Football Match, Hackathon, Theater Play, Dance Battle"
+R0089,Navya Sharma,Literary Club,Sports Club,Dance Club,Dance Battle
+R0090,Ishaan Sharma,Art Club,Dance Club,Music Club,Music Concert
+R0091,Vihaan Joshi,Sports Club,Art Club,Tech Club,Painting Workshop
+R0092,Kabir Kumar,Drama Club,Literary Club,Art Club,"Painting Workshop, Football Match"
+R0093,Ishaan Bhat,Literary Club,Dance Club,Drama Club,"Football Match, Dance Battle, Debate, Painting Workshop"
+R0094,Aditi Bhat,Music Club,Tech Club,Literary Club,"Dance Battle, Debate"
+R0095,Aarav Gupta,Drama Club,Art Club,Dance Club,"Music Concert, Painting Workshop"
+R0096,Aarav Agarwal,Tech Club,Literary Club,Art Club,"Music Concert, Hackathon, Painting Workshop, Debate"
+R0097,Vivaan Agarwal,Music Club,Drama Club,Sports Club,"Music Concert, Debate, Hackathon"
+R0098,Ishaan Sharma,Art Club,Drama Club,Literary Club,"Debate, Hackathon, Painting Workshop"
+R0099,Aarav Kumar,Art Club,Tech Club,Drama Club,"Dance Battle, Debate, Music Concert"
+R0100,Aarav Gupta,Art Club,Sports Club,Music Club,"Hackathon, Painting Workshop, Football Match"
+R0101,Aarav Kapoor,Sports Club,Literary Club,Dance Club,"Music Concert, Theater Play, Football Match"
+R0102,Aditi Kumar,Dance Club,Drama Club,Art Club,Hackathon
+R0103,Saanvi Mehta,Tech Club,Music Club,Drama Club,Music Concert
+R0104,Kabir Bhat,Sports Club,Art Club,Tech Club,"Painting Workshop, Dance Battle, Football Match"
+R0105,Kabir Verma,Dance Club,Sports Club,Art Club,Painting Workshop
+R0106,Ishaan Bhat,Drama Club,Music Club,Literary Club,"Debate, Music Concert, Dance Battle, Painting Workshop"
+R0107,Aarav Bhat,Sports Club,Literary Club,Tech Club,"Music Concert, Hackathon, Football Match"
+R0108,Ananya Mehta,Drama Club,Dance Club,Art Club,"Football Match, Hackathon, Dance Battle"
+R0109,Kabir Agarwal,Dance Club,Literary Club,Sports Club,"Football Match, Music Concert"
+R0110,Rohan Bhat,Music Club,Art Club,Literary Club,"Music Concert, Hackathon, Painting Workshop"
+R0111,Navya Kumar,Dance Club,Sports Club,Tech Club,"Hackathon, Dance Battle, Painting Workshop, Theater Play"
+R0112,Kabir Agarwal,Sports Club,Literary Club,Dance Club,Theater Play
+R0113,Navya Joshi,Literary Club,Music Club,Drama Club,"Hackathon, Football Match, Dance Battle"
+R0114,Ananya Mehta,Drama Club,Literary Club,Sports Club,"Theater Play, Painting Workshop"
+R0115,Vivaan Sharma,Sports Club,Drama Club,Dance Club,"Debate, Hackathon, Dance Battle"
+R0116,Aditi Verma,Art Club,Sports Club,Dance Club,"Debate, Music Concert, Football Match"
+R0117,Saanvi Kapoor,Literary Club,Art Club,Drama Club,"Music Concert, Theater Play"
+R0118,Navya Mehta,Music Club,Literary Club,Drama Club,"Football Match, Debate, Hackathon"
+R0119,Navya Mehta,Music Club,Literary Club,Art Club,"Painting Workshop, Debate"
+R0120,Vivaan Patel,Music Club,Literary Club,Sports Club,"Painting Workshop, Hackathon"
+R0121,Rohan Mehta,Art Club,Tech Club,Sports Club,"Debate, Painting Workshop, Music Concert, Football Match"
+R0122,Saanvi Verma,Sports Club,Art Club,Music Club,"Dance Battle, Music Concert, Theater Play, Hackathon"
+R0123,Saanvi Patel,Drama Club,Sports Club,Literary Club,"Painting Workshop, Music Concert, Debate"
+R0124,Navya Verma,Tech Club,Dance Club,Music Club,"Theater Play, Music Concert"
+R0125,Navya Verma,Art Club,Literary Club,Drama Club,"Debate, Theater Play, Music Concert, Dance Battle"
+R0126,Ishaan Kumar,Drama Club,Music Club,Sports Club,Hackathon
+R0127,Vihaan Kumar,Sports Club,Literary Club,Art Club,"Music Concert, Football Match"
+R0128,Kabir Mehta,Tech Club,Sports Club,Art Club,"Dance Battle, Painting Workshop, Hackathon"
+R0129,Vivaan Sharma,Sports Club,Dance Club,Music Club,"Dance Battle, Music Concert, Painting Workshop"
+R0130,Saanvi Bhat,Music Club,Sports Club,Tech Club,"Music Concert, Football Match, Hackathon"
+R0131,Vivaan Joshi,Art Club,Dance Club,Literary Club,"Hackathon, Music Concert, Painting Workshop"
+R0132,Navya Patel,Sports Club,Literary Club,Tech Club,"Debate, Theater Play, Football Match"
+R0133,Navya Joshi,Sports Club,Drama Club,Dance Club,"Football Match, Debate, Painting Workshop, Dance Battle"
+R0134,Aditi Kapoor,Sports Club,Drama Club,Music Club,"Theater Play, Hackathon, Debate"
+R0135,Ishaan Kapoor,Drama Club,Dance Club,Literary Club,Theater Play
+R0136,Aditi Bhat,Literary Club,Sports Club,Dance Club,"Music Concert, Dance Battle"
+R0137,Navya Joshi,Sports Club,Art Club,Dance Club,"Music Concert, Football Match, Dance Battle"
+R0138,Aditi Kapoor,Dance Club,Literary Club,Tech Club,"Debate, Football Match, Painting Workshop"
+R0139,Ananya Kapoor,Sports Club,Literary Club,Tech Club,Music Concert
+R0140,Aarav Kapoor,Literary Club,Drama Club,Sports Club,"Hackathon, Theater Play"
+R0141,Aditi Gupta,Art Club,Tech Club,Literary Club,"Debate, Dance Battle, Theater Play, Football Match"
+R0142,Kabir Kapoor,Literary Club,Music Club,Dance Club,"Debate, Theater Play"
+R0143,Saanvi Joshi,Art Club,Music Club,Drama Club,Music Concert
+R0144,Vihaan Verma,Music Club,Drama Club,Art Club,"Theater Play, Dance Battle"
+R0145,Ananya Kapoor,Drama Club,Dance Club,Sports Club,"Football Match, Theater Play, Debate, Hackathon"
+R0146,Vivaan Bhat,Literary Club,Tech Club,Music Club,"Painting Workshop, Debate"
+R0147,Kabir Gupta,Dance Club,Music Club,Art Club,"Music Concert, Dance Battle, Hackathon, Theater Play"
+R0148,Rohan Agarwal,Art Club,Drama Club,Tech Club,"Painting Workshop, Debate, Hackathon"
+R0149,Kabir Verma,Drama Club,Music Club,Sports Club,Hackathon
+R0150,Aarav Sharma,Literary Club,Art Club,Tech Club,"Painting Workshop, Dance Battle, Football Match, Hackathon"
+R0151,Saanvi Verma,Dance Club,Art Club,Sports Club,Debate
+R0152,Ishaan Mehta,Drama Club,Art Club,Sports Club,Debate
+R0153,Ishaan Agarwal,Drama Club,Art Club,Dance Club,"Music Concert, Theater Play, Debate"
+R0154,Vivaan Joshi,Tech Club,Drama Club,Dance Club,"Dance Battle, Football Match, Hackathon, Debate"
+R0155,Vihaan Kapoor,Music Club,Drama Club,Art Club,"Debate, Theater Play, Painting Workshop"
+R0156,Navya Joshi,Drama Club,Sports Club,Music Club,Hackathon
+R0157,Ananya Bhat,Music Club,Drama Club,Sports Club,"Football Match, Music Concert, Dance Battle, Debate"
+R0158,Ananya Kapoor,Tech Club,Drama Club,Music Club,"Hackathon, Football Match"
+R0159,Vivaan Gupta,Drama Club,Dance Club,Sports Club,Dance Battle
+R0160,Navya Gupta,Art Club,Tech Club,Drama Club,"Hackathon, Painting Workshop"
+R0161,Ishaan Mehta,Literary Club,Dance Club,Tech Club,"Hackathon, Music Concert, Painting Workshop"
+R0162,Ishaan Kumar,Art Club,Tech Club,Music Club,"Theater Play, Debate, Music Concert"
+R0163,Vivaan Gupta,Drama Club,Art Club,Dance Club,"Music Concert, Theater Play, Dance Battle, Football Match"
+R0164,Vihaan Sharma,Music Club,Sports Club,Art Club,Painting Workshop
+R0165,Saanvi Joshi,Drama Club,Tech Club,Sports Club,Football Match
+R0166,Aditi Patel,Dance Club,Sports Club,Tech Club,"Painting Workshop, Music Concert"
+R0167,Vivaan Patel,Dance Club,Music Club,Tech Club,Debate
+R0168,Aditi Gupta,Music Club,Drama Club,Dance Club,Theater Play
+R0169,Aarav Joshi,Sports Club,Drama Club,Art Club,"Hackathon, Dance Battle"
+R0170,Kabir Joshi,Music Club,Literary Club,Drama Club,Dance Battle
+R0171,Aditi Agarwal,Tech Club,Music Club,Art Club,"Music Concert, Theater Play"
+R0172,Aditi Kapoor,Tech Club,Sports Club,Drama Club,"Painting Workshop, Music Concert, Debate"
+R0173,Aditi Verma,Drama Club,Art Club,Tech Club,"Dance Battle, Hackathon, Theater Play, Painting Workshop"
+R0174,Ishaan Agarwal,Drama Club,Dance Club,Sports Club,"Debate, Music Concert, Football Match"
+R0175,Aarav Bhat,Dance Club,Music Club,Literary Club,"Painting Workshop, Football Match"
+R0176,Vihaan Verma,Sports Club,Art Club,Tech Club,"Hackathon, Music Concert, Football Match, Dance Battle"
+R0177,Ishaan Joshi,Literary Club,Music Club,Dance Club,"Dance Battle, Painting Workshop, Theater Play"
+R0178,Ishaan Agarwal,Music Club,Dance Club,Sports Club,Dance Battle
+R0179,Ishaan Sharma,Literary Club,Dance Club,Sports Club,"Dance Battle, Debate, Theater Play"
+R0180,Ananya Patel,Music Club,Sports Club,Art Club,"Dance Battle, Debate, Football Match"
+R0181,Rohan Sharma,Dance Club,Drama Club,Art Club,"Dance Battle, Debate"
+R0182,Vivaan Patel,Art Club,Sports Club,Literary Club,Hackathon
+R0183,Rohan Joshi,Sports Club,Art Club,Tech Club,"Theater Play, Dance Battle, Debate"
+R0184,Aditi Patel,Literary Club,Sports Club,Music Club,"Football Match, Music Concert, Dance Battle, Debate"
+R0185,Saanvi Mehta,Art Club,Dance Club,Drama Club,"Football Match, Theater Play, Painting Workshop"
+R0186,Ananya Joshi,Drama Club,Art Club,Tech Club,"Debate, Football Match, Theater Play, Dance Battle"
+R0187,Ananya Kapoor,Music Club,Tech Club,Drama Club,"Hackathon, Debate"
+R0188,Vivaan Kapoor,Music Club,Literary Club,Tech Club,"Football Match, Theater Play, Hackathon, Dance Battle"
+R0189,Saanvi Kumar,Tech Club,Music Club,Art Club,"Debate, Theater Play, Hackathon"
+R0190,Vivaan Joshi,Music Club,Sports Club,Art Club,Painting Workshop
+R0191,Vihaan Sharma,Tech Club,Art Club,Music Club,"Debate, Dance Battle"
+R0192,Ishaan Bhat,Dance Club,Sports Club,Literary Club,"Hackathon, Dance Battle, Painting Workshop"
+R0193,Navya Sharma,Art Club,Literary Club,Drama Club,"Painting Workshop, Music Concert"
+R0194,Saanvi Kapoor,Drama Club,Music Club,Tech Club,"Theater Play, Dance Battle, Music Concert"
+R0195,Aditi Joshi,Literary Club,Sports Club,Music Club,"Hackathon, Painting Workshop, Dance Battle"
+R0196,Navya Agarwal,Dance Club,Music Club,Sports Club,"Dance Battle, Painting Workshop, Football Match"
+R0197,Saanvi Kumar,Art Club,Drama Club,Tech Club,"Music Concert, Hackathon, Dance Battle, Football Match"
+R0198,Aditi Agarwal,Art Club,Tech Club,Sports Club,Football Match
+R0199,Ananya Mehta,Literary Club,Drama Club,Art Club,"Music Concert, Debate, Hackathon, Football Match"
+R0200,Saanvi Patel,Art Club,Tech Club,Drama Club,"Debate, Football Match"
+R0201,Saanvi Joshi,Art Club,Drama Club,Music Club,Hackathon
+R0202,Navya Verma,Sports Club,Music Club,Drama Club,"Music Concert, Hackathon"
+R0203,Navya Kumar,Sports Club,Dance Club,Drama Club,"Dance Battle, Painting Workshop"
+R0204,Saanvi Agarwal,Literary Club,Art Club,Dance Club,"Theater Play, Dance Battle, Painting Workshop, Music Concert"
+R0205,Ananya Patel,Sports Club,Music Club,Literary Club,Debate
+R0206,Vihaan Verma,Dance Club,Tech Club,Art Club,"Painting Workshop, Theater Play, Football Match, Dance Battle"
+R0207,Ishaan Joshi,Dance Club,Sports Club,Music Club,"Debate, Painting Workshop"
+R0208,Vihaan Joshi,Dance Club,Drama Club,Literary Club,"Dance Battle, Painting Workshop, Music Concert, Debate"
+R0209,Vihaan Verma,Art Club,Drama Club,Music Club,Football Match
+R0210,Rohan Sharma,Dance Club,Drama Club,Sports Club,"Theater Play, Painting Workshop, Football Match, Debate"
+R0211,Vivaan Patel,Tech Club,Art Club,Dance Club,"Painting Workshop, Music Concert"
+R0212,Vihaan Joshi,Drama Club,Literary Club,Music Club,"Theater Play, Dance Battle, Painting Workshop"
+R0213,Ananya Kapoor,Dance Club,Sports Club,Music Club,"Football Match, Hackathon, Music Concert"
+R0214,Rohan Kumar,Literary Club,Tech Club,Art Club,Music Concert
+R0215,Ishaan Mehta,Sports Club,Art Club,Drama Club,"Theater Play, Football Match"
+R0216,Ananya Mehta,Music Club,Sports Club,Art Club,Music Concert
+R0217,Saanvi Kapoor,Music Club,Literary Club,Drama Club,"Music Concert, Hackathon"
+R0218,Rohan Verma,Art Club,Music Club,Sports Club,"Theater Play, Debate, Football Match"
+R0219,Navya Gupta,Music Club,Literary Club,Sports Club,"Theater Play, Hackathon"
+R0220,Saanvi Kumar,Dance Club,Music Club,Tech Club,"Painting Workshop, Debate, Football Match, Music Concert"
+R0221,Aarav Patel,Art Club,Literary Club,Tech Club,"Hackathon, Debate, Football Match"
+R0222,Navya Sharma,Art Club,Literary Club,Drama Club,Hackathon
+R0223,Ishaan Verma,Sports Club,Dance Club,Drama Club,Theater Play
+R0224,Ishaan Verma,Dance Club,Music Club,Tech Club,Hackathon
+R0225,Saanvi Kumar,Dance Club,Tech Club,Music Club,"Music Concert, Football Match"
+R0226,Aditi Kapoor,Art Club,Music Club,Sports Club,"Theater Play, Music Concert, Hackathon"
+R0227,Ishaan Verma,Sports Club,Dance Club,Art Club,"Football Match, Hackathon, Debate"
+R0228,Aarav Bhat,Sports Club,Music Club,Drama Club,"Painting Workshop, Hackathon, Football Match, Theater Play"
+R0229,Ishaan Patel,Music Club,Art Club,Literary Club,"Painting Workshop, Debate"
+R0230,Kabir Joshi,Literary Club,Sports Club,Drama Club,"Debate, Theater Play, Hackathon"
+R0231,Saanvi Patel,Tech Club,Art Club,Music Club,"Dance Battle, Hackathon, Debate, Football Match"
+R0232,Saanvi Kumar,Dance Club,Tech Club,Literary Club,"Debate, Music Concert, Theater Play, Painting Workshop"
+R0233,Vihaan Sharma,Tech Club,Dance Club,Art Club,"Hackathon, Painting Workshop, Dance Battle"
+R0234,Navya Sharma,Music Club,Art Club,Drama Club,"Football Match, Music Concert"
+R0235,Vihaan Joshi,Music Club,Sports Club,Dance Club,"Debate, Theater Play, Painting Workshop"
+R0236,Vivaan Agarwal,Drama Club,Dance Club,Music Club,"Theater Play, Football Match"
+R0237,Ishaan Mehta,Literary Club,Dance Club,Sports Club,Debate
+R0238,Aarav Joshi,Dance Club,Drama Club,Art Club,Debate
+R0239,Vivaan Joshi,Music Club,Drama Club,Dance Club,Football Match
+R0240,Kabir Sharma,Dance Club,Drama Club,Literary Club,Music Concert
+R0241,Ishaan Sharma,Dance Club,Literary Club,Music Club,"Theater Play, Painting Workshop"
+R0242,Aarav Sharma,Drama Club,Sports Club,Dance Club,"Theater Play, Painting Workshop, Music Concert, Debate"
+R0243,Rohan Joshi,Dance Club,Drama Club,Music Club,"Theater Play, Dance Battle, Debate"
+R0244,Saanvi Agarwal,Literary Club,Sports Club,Art Club,"Painting Workshop, Theater Play, Football Match, Music Concert"
+R0245,Ananya Patel,Sports Club,Tech Club,Art Club,"Painting Workshop, Dance Battle"
+R0246,Aditi Agarwal,Tech Club,Drama Club,Sports Club,"Hackathon, Debate, Dance Battle"
+R0247,Navya Agarwal,Drama Club,Art Club,Sports Club,"Hackathon, Dance Battle, Debate"
+R0248,Rohan Mehta,Music Club,Dance Club,Art Club,"Football Match, Theater Play, Painting Workshop"
+R0249,Saanvi Gupta,Literary Club,Music Club,Drama Club,"Dance Battle, Debate"
+R0250,Vihaan Joshi,Literary Club,Sports Club,Tech Club,"Debate, Theater Play, Hackathon, Football Match"
+R0251,Ishaan Kapoor,Dance Club,Literary Club,Sports Club,"Hackathon, Football Match, Debate, Music Concert"
+R0252,Navya Sharma,Sports Club,Art Club,Music Club,"Music Concert, Football Match"
+R0253,Vihaan Patel,Music Club,Sports Club,Drama Club,"Theater Play, Dance Battle"
+R0254,Aarav Gupta,Music Club,Sports Club,Art Club,"Theater Play, Dance Battle, Hackathon, Music Concert"
+R0255,Ananya Kumar,Dance Club,Tech Club,Music Club,"Football Match, Debate, Painting Workshop, Hackathon"
+R0256,Vihaan Patel,Tech Club,Literary Club,Drama Club,"Dance Battle, Debate"
+R0257,Aarav Mehta,Sports Club,Music Club,Dance Club,Dance Battle
+R0258,Ananya Bhat,Sports Club,Music Club,Literary Club,"Painting Workshop, Debate, Football Match, Hackathon"
+R0259,Ishaan Sharma,Sports Club,Dance Club,Drama Club,"Football Match, Music Concert, Dance Battle"
+R0260,Kabir Joshi,Drama Club,Literary Club,Art Club,"Painting Workshop, Dance Battle"
+R0261,Ananya Bhat,Tech Club,Sports Club,Art Club,"Painting Workshop, Hackathon, Football Match, Music Concert"
+R0262,Ananya Agarwal,Dance Club,Sports Club,Tech Club,"Theater Play, Hackathon, Painting Workshop, Football Match"
+R0263,Vivaan Gupta,Art Club,Music Club,Sports Club,"Theater Play, Music Concert, Hackathon, Football Match"
+R0264,Navya Kumar,Music Club,Dance Club,Tech Club,Painting Workshop
+R0265,Navya Bhat,Dance Club,Art Club,Music Club,"Debate, Music Concert"
+R0266,Aditi Patel,Drama Club,Literary Club,Sports Club,"Hackathon, Painting Workshop, Debate"
+R0267,Saanvi Agarwal,Tech Club,Literary Club,Art Club,"Hackathon, Football Match, Painting Workshop"
+R0268,Ishaan Bhat,Music Club,Art Club,Tech Club,Theater Play
+R0269,Vihaan Mehta,Literary Club,Music Club,Tech Club,"Dance Battle, Football Match, Painting Workshop, Music Concert"
+R0270,Rohan Agarwal,Sports Club,Art Club,Tech Club,"Football Match, Debate, Painting Workshop, Dance Battle"
+R0271,Vihaan Bhat,Tech Club,Dance Club,Sports Club,"Football Match, Debate"
+R0272,Ishaan Kumar,Dance Club,Art Club,Drama Club,Dance Battle
+R0273,Saanvi Sharma,Tech Club,Art Club,Drama Club,"Football Match, Theater Play, Hackathon"
+R0274,Vihaan Mehta,Sports Club,Music Club,Art Club,Theater Play
+R0275,Kabir Joshi,Tech Club,Music Club,Sports Club,"Music Concert, Debate, Dance Battle, Painting Workshop"
+R0276,Navya Kumar,Drama Club,Music Club,Dance Club,Music Concert
+R0277,Navya Bhat,Drama Club,Tech Club,Sports Club,"Hackathon, Theater Play, Football Match"
+R0278,Saanvi Sharma,Dance Club,Tech Club,Music Club,"Painting Workshop, Hackathon"
+R0279,Ananya Verma,Music Club,Dance Club,Literary Club,Theater Play
+R0280,Navya Kapoor,Sports Club,Drama Club,Literary Club,"Dance Battle, Painting Workshop, Football Match, Debate"
+R0281,Rohan Mehta,Drama Club,Art Club,Sports Club,"Football Match, Theater Play, Debate, Hackathon"
+R0282,Vivaan Kumar,Music Club,Sports Club,Art Club,"Hackathon, Football Match, Debate, Theater Play"
+R0283,Saanvi Bhat,Art Club,Sports Club,Literary Club,"Dance Battle, Debate"
+R0284,Aarav Verma,Drama Club,Dance Club,Tech Club,Theater Play
+R0285,Aarav Mehta,Dance Club,Tech Club,Drama Club,"Debate, Football Match, Theater Play"
+R0286,Ishaan Sharma,Dance Club,Drama Club,Music Club,"Hackathon, Debate"
+R0287,Kabir Sharma,Tech Club,Drama Club,Literary Club,"Theater Play, Debate"
+R0288,Saanvi Joshi,Dance Club,Sports Club,Music Club,Football Match
+R0289,Vihaan Joshi,Tech Club,Sports Club,Drama Club,"Painting Workshop, Theater Play"
+R0290,Aditi Verma,Tech Club,Drama Club,Sports Club,"Football Match, Dance Battle"
+R0291,Vivaan Kumar,Sports Club,Dance Club,Music Club,"Football Match, Hackathon"
+R0292,Ananya Agarwal,Dance Club,Tech Club,Sports Club,"Football Match, Hackathon, Theater Play"
+R0293,Ishaan Joshi,Sports Club,Literary Club,Drama Club,"Music Concert, Theater Play, Dance Battle, Football Match"
+R0294,Aarav Gupta,Art Club,Drama Club,Sports Club,Dance Battle
+R0295,Vivaan Joshi,Drama Club,Sports Club,Art Club,"Football Match, Theater Play, Dance Battle, Hackathon"
+R0296,Rohan Bhat,Dance Club,Sports Club,Literary Club,"Hackathon, Debate"
+R0297,Ananya Bhat,Dance Club,Drama Club,Tech Club,"Painting Workshop, Debate, Music Concert, Dance Battle"
+R0298,Vihaan Bhat,Literary Club,Tech Club,Drama Club,"Music Concert, Debate"
+R0299,Aarav Mehta,Drama Club,Tech Club,Sports Club,"Hackathon, Theater Play"
+R0300,Saanvi Gupta,Sports Club,Art Club,Dance Club,"Music Concert, Theater Play, Hackathon"
+R0301,Saanvi Patel,Music Club,Sports Club,Art Club,"Hackathon, Football Match, Music Concert, Dance Battle"
+R0302,Aarav Joshi,Art Club,Dance Club,Sports Club,"Music Concert, Debate"
+R0303,Vivaan Mehta,Sports Club,Literary Club,Dance Club,"Dance Battle, Painting Workshop, Theater Play, Music Concert"
+R0304,Vivaan Patel,Tech Club,Art Club,Literary Club,"Dance Battle, Football Match, Painting Workshop, Hackathon"
+R0305,Vihaan Verma,Art Club,Drama Club,Sports Club,"Football Match, Theater Play, Music Concert"
+R0306,Aditi Kumar,Tech Club,Dance Club,Literary Club,"Hackathon, Football Match, Theater Play, Debate"
+R0307,Aarav Agarwal,Art Club,Tech Club,Literary Club,"Hackathon, Painting Workshop, Music Concert"
+R0308,Rohan Verma,Music Club,Dance Club,Tech Club,"Football Match, Theater Play, Painting Workshop, Music Concert"
+R0309,Kabir Patel,Literary Club,Art Club,Dance Club,"Hackathon, Football Match"
+R0310,Aarav Kumar,Dance Club,Literary Club,Tech Club,"Hackathon, Football Match"
+R0311,Vivaan Agarwal,Dance Club,Art Club,Music Club,"Theater Play, Dance Battle, Music Concert, Hackathon"
+R0312,Ishaan Kumar,Drama Club,Dance Club,Sports Club,"Debate, Football Match, Painting Workshop, Music Concert"
+R0313,Vivaan Bhat,Art Club,Tech Club,Drama Club,"Hackathon, Dance Battle, Theater Play"
+R0314,Vivaan Sharma,Tech Club,Art Club,Sports Club,"Painting Workshop, Debate, Music Concert"
+R0315,Vihaan Agarwal,Sports Club,Dance Club,Tech Club,"Hackathon, Football Match, Theater Play"
+R0316,Navya Agarwal,Tech Club,Music Club,Literary Club,"Theater Play, Dance Battle, Painting Workshop, Hackathon"
+R0317,Vihaan Bhat,Dance Club,Sports Club,Music Club,"Debate, Music Concert, Football Match, Hackathon"
+R0318,Aarav Verma,Dance Club,Tech Club,Drama Club,"Music Concert, Theater Play, Football Match, Debate"
+R0319,Ishaan Mehta,Sports Club,Literary Club,Drama Club,"Painting Workshop, Dance Battle, Music Concert"
+R0320,Aarav Agarwal,Dance Club,Music Club,Drama Club,"Painting Workshop, Football Match, Dance Battle, Music Concert"
+R0321,Aarav Kumar,Tech Club,Sports Club,Dance Club,"Dance Battle, Theater Play, Hackathon, Debate"
+R0322,Saanvi Sharma,Art Club,Tech Club,Music Club,"Music Concert, Debate, Hackathon"
+R0323,Kabir Kapoor,Sports Club,Music Club,Tech Club,"Dance Battle, Music Concert, Football Match, Painting Workshop"
+R0324,Aditi Agarwal,Dance Club,Tech Club,Literary Club,"Hackathon, Theater Play"
+R0325,Saanvi Agarwal,Music Club,Dance Club,Sports Club,"Music Concert, Painting Workshop, Football Match, Dance Battle"
+R0326,Ananya Mehta,Tech Club,Music Club,Dance Club,"Debate, Hackathon, Theater Play"
+R0327,Vivaan Kumar,Drama Club,Dance Club,Tech Club,"Hackathon, Dance Battle"
+R0328,Vihaan Verma,Dance Club,Tech Club,Literary Club,"Football Match, Debate, Music Concert"
+R0329,Aditi Gupta,Sports Club,Tech Club,Drama Club,"Painting Workshop, Music Concert, Football Match, Theater Play"
+R0330,Aarav Agarwal,Drama Club,Literary Club,Dance Club,"Music Concert, Dance Battle"
+R0331,Aditi Joshi,Sports Club,Dance Club,Literary Club,"Football Match, Dance Battle"
+R0332,Ishaan Patel,Sports Club,Art Club,Music Club,Dance Battle
+R0333,Vivaan Patel,Dance Club,Literary Club,Art Club,Music Concert
+R0334,Navya Bhat,Dance Club,Literary Club,Music Club,Painting Workshop
+R0335,Vivaan Gupta,Literary Club,Art Club,Drama Club,"Hackathon, Debate"
+R0336,Kabir Sharma,Sports Club,Literary Club,Music Club,Music Concert
+R0337,Saanvi Bhat,Music Club,Sports Club,Tech Club,Theater Play
+R0338,Saanvi Kumar,Tech Club,Literary Club,Sports Club,Painting Workshop
+R0339,Ishaan Joshi,Dance Club,Literary Club,Tech Club,"Hackathon, Music Concert, Football Match"
+R0340,Saanvi Mehta,Music Club,Drama Club,Dance Club,"Theater Play, Painting Workshop, Hackathon"
+R0341,Rohan Joshi,Music Club,Art Club,Drama Club,Football Match
+R0342,Rohan Kapoor,Sports Club,Tech Club,Dance Club,"Football Match, Dance Battle, Music Concert, Hackathon"
+R0343,Ishaan Kapoor,Dance Club,Literary Club,Tech Club,"Dance Battle, Hackathon, Painting Workshop, Debate"
+R0344,Ishaan Agarwal,Music Club,Literary Club,Sports Club,"Painting Workshop, Music Concert, Theater Play, Hackathon"
+R0345,Aditi Kumar,Literary Club,Art Club,Tech Club,"Football Match, Theater Play, Hackathon"
+R0346,Ishaan Kapoor,Art Club,Literary Club,Music Club,Hackathon
+R0347,Aarav Agarwal,Tech Club,Sports Club,Art Club,"Dance Battle, Music Concert"
+R0348,Saanvi Bhat,Drama Club,Dance Club,Literary Club,Football Match
+R0349,Ananya Bhat,Dance Club,Tech Club,Drama Club,Theater Play
+R0350,Kabir Kumar,Sports Club,Music Club,Literary Club,"Football Match, Theater Play"
+R0351,Navya Kapoor,Music Club,Tech Club,Dance Club,"Debate, Hackathon, Theater Play, Dance Battle"
+R0352,Aarav Bhat,Literary Club,Dance Club,Sports Club,"Music Concert, Dance Battle, Hackathon"
+R0353,Aarav Verma,Literary Club,Drama Club,Dance Club,"Hackathon, Theater Play, Painting Workshop, Dance Battle"
+R0354,Saanvi Sharma,Literary Club,Dance Club,Drama Club,"Painting Workshop, Football Match, Dance Battle, Hackathon"
+R0355,Navya Gupta,Dance Club,Drama Club,Tech Club,Football Match
+R0356,Saanvi Gupta,Art Club,Sports Club,Drama Club,"Debate, Football Match"
+R0357,Aarav Agarwal,Art Club,Dance Club,Tech Club,"Hackathon, Dance Battle, Theater Play, Painting Workshop"
+R0358,Vivaan Bhat,Literary Club,Drama Club,Tech Club,Dance Battle
+R0359,Navya Verma,Art Club,Tech Club,Sports Club,Theater Play
+R0360,Navya Kumar,Sports Club,Art Club,Literary Club,Debate
+R0361,Saanvi Joshi,Dance Club,Art Club,Sports Club,"Theater Play, Football Match, Dance Battle"
+R0362,Ananya Gupta,Drama Club,Music Club,Sports Club,Painting Workshop
+R0363,Vihaan Mehta,Dance Club,Tech Club,Art Club,Dance Battle
+R0364,Rohan Verma,Sports Club,Drama Club,Dance Club,"Debate, Painting Workshop, Dance Battle"
+R0365,Ananya Agarwal,Sports Club,Drama Club,Literary Club,"Music Concert, Debate, Dance Battle, Theater Play"
+R0366,Navya Patel,Tech Club,Literary Club,Art Club,"Debate, Dance Battle"
+R0367,Ishaan Bhat,Art Club,Music Club,Tech Club,Football Match
+R0368,Kabir Mehta,Drama Club,Literary Club,Sports Club,"Football Match, Theater Play, Dance Battle"
+R0369,Kabir Mehta,Literary Club,Art Club,Music Club,"Painting Workshop, Football Match, Dance Battle, Theater Play"
+R0370,Navya Kapoor,Art Club,Literary Club,Dance Club,"Football Match, Theater Play"
+R0371,Vihaan Kumar,Tech Club,Literary Club,Drama Club,"Painting Workshop, Football Match, Dance Battle, Debate"
+R0372,Vihaan Gupta,Tech Club,Art Club,Dance Club,"Music Concert, Painting Workshop"
+R0373,Vivaan Kapoor,Dance Club,Art Club,Literary Club,Painting Workshop
+R0374,Ishaan Agarwal,Drama Club,Art Club,Tech Club,"Dance Battle, Football Match, Music Concert"
+R0375,Aarav Verma,Dance Club,Music Club,Art Club,"Painting Workshop, Hackathon"
+R0376,Vihaan Mehta,Tech Club,Drama Club,Art Club,"Football Match, Debate"
+R0377,Ishaan Verma,Art Club,Sports Club,Dance Club,Football Match
+R0378,Aarav Kapoor,Music Club,Drama Club,Art Club,Debate
+R0379,Aarav Bhat,Tech Club,Dance Club,Sports Club,"Debate, Music Concert"
+R0380,Navya Patel,Tech Club,Dance Club,Art Club,"Hackathon, Theater Play, Painting Workshop, Dance Battle"
+R0381,Saanvi Gupta,Drama Club,Literary Club,Music Club,"Painting Workshop, Football Match"
+R0382,Aarav Mehta,Tech Club,Dance Club,Literary Club,"Hackathon, Theater Play, Music Concert, Debate"
+R0383,Saanvi Verma,Sports Club,Art Club,Drama Club,"Football Match, Debate"
+R0384,Navya Mehta,Drama Club,Dance Club,Music Club,"Dance Battle, Theater Play"
+R0385,Vihaan Patel,Literary Club,Dance Club,Art Club,Debate
+R0386,Aarav Kapoor,Drama Club,Literary Club,Tech Club,"Debate, Football Match"
+R0387,Aditi Joshi,Drama Club,Sports Club,Literary Club,"Football Match, Hackathon"
+R0388,Vihaan Kapoor,Literary Club,Tech Club,Music Club,"Dance Battle, Debate, Painting Workshop, Football Match"
+R0389,Ishaan Sharma,Music Club,Drama Club,Art Club,"Dance Battle, Football Match"
+R0390,Navya Joshi,Literary Club,Art Club,Dance Club,"Hackathon, Football Match"
+R0391,Ananya Patel,Tech Club,Sports Club,Drama Club,"Painting Workshop, Dance Battle"
+R0392,Navya Verma,Tech Club,Sports Club,Music Club,"Football Match, Hackathon, Painting Workshop"
+R0393,Vihaan Joshi,Music Club,Sports Club,Literary Club,"Dance Battle, Hackathon"
+R0394,Aditi Patel,Tech Club,Music Club,Art Club,"Dance Battle, Music Concert, Football Match"
+R0395,Aarav Bhat,Tech Club,Drama Club,Music Club,Debate
+R0396,Navya Sharma,Tech Club,Drama Club,Dance Club,"Dance Battle, Painting Workshop"
+R0397,Vihaan Gupta,Dance Club,Art Club,Literary Club,"Hackathon, Dance Battle"
+R0398,Aarav Bhat,Drama Club,Art Club,Sports Club,Debate
+R0399,Ananya Patel,Literary Club,Drama Club,Dance Club,Football Match
+R0400,Vihaan Kapoor,Sports Club,Literary Club,Dance Club,"Hackathon, Debate"
+R0401,Ishaan Verma,Literary Club,Tech Club,Art Club,"Dance Battle, Debate"
+R0402,Aarav Gupta,Art Club,Music Club,Tech Club,"Debate, Music Concert"
+R0403,Saanvi Gupta,Art Club,Dance Club,Music Club,Dance Battle
+R0404,Rohan Joshi,Drama Club,Tech Club,Dance Club,"Debate, Dance Battle, Painting Workshop, Hackathon"
+R0405,Saanvi Sharma,Drama Club,Literary Club,Art Club,"Football Match, Theater Play, Music Concert"
+R0406,Ishaan Agarwal,Music Club,Dance Club,Drama Club,"Hackathon, Music Concert"
+R0407,Ananya Bhat,Art Club,Dance Club,Music Club,Football Match
+R0408,Ishaan Patel,Art Club,Literary Club,Music Club,"Hackathon, Football Match, Debate"
+R0409,Ananya Verma,Drama Club,Art Club,Literary Club,"Hackathon, Football Match, Painting Workshop, Theater Play"
+R0410,Ananya Gupta,Tech Club,Music Club,Sports Club,Hackathon
+R0411,Vihaan Agarwal,Sports Club,Art Club,Dance Club,Hackathon
+R0412,Ananya Kumar,Sports Club,Music Club,Drama Club,"Hackathon, Football Match, Theater Play"
+R0413,Aditi Gupta,Drama Club,Art Club,Sports Club,"Theater Play, Painting Workshop"
+R0414,Aditi Verma,Tech Club,Dance Club,Music Club,"Hackathon, Football Match, Theater Play, Debate"
+R0415,Ananya Sharma,Literary Club,Tech Club,Art Club,"Theater Play, Dance Battle, Music Concert"
+R0416,Ishaan Kapoor,Music Club,Art Club,Sports Club,"Football Match, Painting Workshop, Theater Play, Dance Battle"
+R0417,Aarav Agarwal,Dance Club,Art Club,Literary Club,"Dance Battle, Painting Workshop, Football Match"
+R0418,Saanvi Sharma,Dance Club,Literary Club,Tech Club,"Music Concert, Hackathon, Painting Workshop"
+R0419,Ananya Kumar,Music Club,Dance Club,Sports Club,"Football Match, Painting Workshop, Theater Play, Hackathon"
+R0420,Rohan Sharma,Literary Club,Music Club,Tech Club,Music Concert
+R0421,Ananya Verma,Drama Club,Sports Club,Literary Club,"Dance Battle, Music Concert, Hackathon"
+R0422,Vihaan Agarwal,Sports Club,Tech Club,Drama Club,"Football Match, Music Concert"
+R0423,Ananya Gupta,Dance Club,Tech Club,Music Club,Music Concert
+R0424,Vivaan Agarwal,Art Club,Dance Club,Drama Club,"Painting Workshop, Music Concert, Dance Battle"
+R0425,Ananya Kumar,Dance Club,Literary Club,Music Club,"Theater Play, Music Concert"
+R0426,Saanvi Patel,Music Club,Tech Club,Literary Club,"Hackathon, Painting Workshop, Debate"
+R0427,Aarav Sharma,Dance Club,Music Club,Art Club,"Football Match, Painting Workshop"
+R0428,Ishaan Sharma,Music Club,Sports Club,Literary Club,Debate
+R0429,Vivaan Verma,Drama Club,Art Club,Sports Club,"Music Concert, Debate"
+R0430,Kabir Joshi,Dance Club,Music Club,Art Club,"Debate, Dance Battle, Hackathon, Music Concert"
+R0431,Saanvi Bhat,Dance Club,Tech Club,Literary Club,"Painting Workshop, Theater Play, Dance Battle, Debate"
+R0432,Vivaan Kapoor,Drama Club,Dance Club,Sports Club,Music Concert
+R0433,Kabir Kumar,Sports Club,Tech Club,Drama Club,"Football Match, Painting Workshop, Music Concert"
+R0434,Ishaan Agarwal,Literary Club,Sports Club,Tech Club,Music Concert
+R0435,Vihaan Patel,Literary Club,Tech Club,Art Club,Debate
+R0436,Vihaan Gupta,Literary Club,Music Club,Tech Club,Painting Workshop
+R0437,Kabir Patel,Drama Club,Literary Club,Tech Club,Hackathon
+R0438,Rohan Gupta,Dance Club,Music Club,Literary Club,"Music Concert, Theater Play, Debate, Football Match"
+R0439,Vivaan Patel,Dance Club,Drama Club,Literary Club,"Debate, Football Match"
+R0440,Kabir Agarwal,Dance Club,Literary Club,Tech Club,"Hackathon, Dance Battle, Theater Play"
+R0441,Rohan Patel,Drama Club,Literary Club,Art Club,"Debate, Painting Workshop"
+R0442,Saanvi Patel,Literary Club,Tech Club,Music Club,Hackathon
+R0443,Ishaan Mehta,Art Club,Tech Club,Drama Club,"Music Concert, Painting Workshop, Debate"
+R0444,Vivaan Joshi,Tech Club,Art Club,Literary Club,Debate
+R0445,Vihaan Gupta,Sports Club,Tech Club,Art Club,Debate
+R0446,Saanvi Sharma,Dance Club,Drama Club,Tech Club,"Music Concert, Football Match, Painting Workshop"
+R0447,Navya Verma,Sports Club,Drama Club,Dance Club,Football Match
+R0448,Aditi Sharma,Dance Club,Drama Club,Sports Club,Theater Play
+R0449,Ishaan Sharma,Music Club,Dance Club,Literary Club,"Theater Play, Music Concert"
+R0450,Rohan Verma,Literary Club,Music Club,Drama Club,"Debate, Theater Play"
+R0451,Vihaan Sharma,Sports Club,Music Club,Literary Club,"Dance Battle, Football Match"
+R0452,Kabir Mehta,Drama Club,Art Club,Tech Club,"Debate, Theater Play"
+R0453,Saanvi Verma,Art Club,Drama Club,Literary Club,"Debate, Dance Battle, Hackathon, Music Concert"
+R0454,Kabir Mehta,Sports Club,Tech Club,Art Club,Debate
+R0455,Saanvi Kumar,Dance Club,Music Club,Art Club,"Football Match, Debate"
+R0456,Vihaan Gupta,Tech Club,Drama Club,Sports Club,"Music Concert, Debate, Theater Play, Painting Workshop"
+R0457,Rohan Mehta,Drama Club,Literary Club,Dance Club,Debate
+R0458,Rohan Verma,Music Club,Literary Club,Art Club,"Theater Play, Painting Workshop, Hackathon, Football Match"
+R0459,Navya Sharma,Tech Club,Dance Club,Drama Club,"Hackathon, Theater Play, Painting Workshop, Football Match"
+R0460,Kabir Verma,Tech Club,Art Club,Drama Club,"Dance Battle, Debate"
+R0461,Rohan Patel,Sports Club,Art Club,Literary Club,"Football Match, Painting Workshop"
+R0462,Ananya Kumar,Dance Club,Literary Club,Art Club,"Football Match, Debate, Music Concert"
+R0463,Ishaan Kapoor,Dance Club,Music Club,Sports Club,"Theater Play, Hackathon, Football Match, Dance Battle"
+R0464,Ananya Kapoor,Sports Club,Art Club,Tech Club,"Hackathon, Debate"
+R0465,Navya Kumar,Sports Club,Tech Club,Art Club,"Music Concert, Hackathon, Football Match, Painting Workshop"
+R0466,Vivaan Sharma,Sports Club,Drama Club,Tech Club,"Painting Workshop, Theater Play, Debate, Hackathon"
+R0467,Ananya Kumar,Art Club,Music Club,Sports Club,Music Concert
+R0468,Navya Verma,Music Club,Dance Club,Sports Club,Hackathon
+R0469,Saanvi Sharma,Sports Club,Tech Club,Art Club,Debate
+R0470,Navya Mehta,Drama Club,Dance Club,Sports Club,"Theater Play, Football Match, Debate"
+R0471,Vivaan Patel,Tech Club,Literary Club,Music Club,"Debate, Football Match, Theater Play, Dance Battle"
+R0472,Kabir Bhat,Music Club,Dance Club,Art Club,"Hackathon, Debate, Theater Play"
+R0473,Ishaan Bhat,Music Club,Drama Club,Tech Club,"Hackathon, Music Concert, Football Match"
+R0474,Kabir Kapoor,Art Club,Literary Club,Sports Club,"Music Concert, Painting Workshop"
+R0475,Saanvi Gupta,Tech Club,Sports Club,Dance Club,"Music Concert, Hackathon"
+R0476,Navya Sharma,Tech Club,Drama Club,Sports Club,"Painting Workshop, Hackathon, Music Concert"
+R0477,Aarav Kapoor,Music Club,Sports Club,Tech Club,"Hackathon, Football Match"
+R0478,Aarav Verma,Sports Club,Tech Club,Drama Club,Debate
+R0479,Kabir Sharma,Drama Club,Literary Club,Tech Club,"Hackathon, Music Concert, Football Match"
+R0480,Navya Verma,Tech Club,Sports Club,Dance Club,"Football Match, Debate"
+R0481,Kabir Joshi,Dance Club,Tech Club,Art Club,Painting Workshop
+R0482,Vivaan Patel,Dance Club,Art Club,Sports Club,"Football Match, Debate"
+R0483,Rohan Kapoor,Tech Club,Dance Club,Drama Club,Debate
+R0484,Saanvi Patel,Music Club,Tech Club,Literary Club,Dance Battle
+R0485,Ananya Sharma,Art Club,Drama Club,Dance Club,"Hackathon, Debate, Painting Workshop"
+R0486,Aarav Gupta,Sports Club,Tech Club,Drama Club,Football Match
+R0487,Aditi Patel,Music Club,Art Club,Sports Club,"Dance Battle, Football Match"
+R0488,Aarav Gupta,Art Club,Sports Club,Drama Club,"Debate, Dance Battle"
+R0489,Saanvi Kapoor,Art Club,Music Club,Dance Club,Painting Workshop
+R0490,Rohan Kumar,Literary Club,Sports Club,Dance Club,Theater Play
+R0491,Navya Patel,Sports Club,Dance Club,Music Club,"Dance Battle, Painting Workshop, Football Match, Hackathon"
+R0492,Aditi Sharma,Drama Club,Tech Club,Dance Club,"Debate, Theater Play, Painting Workshop"
+R0493,Vivaan Mehta,Drama Club,Music Club,Art Club,"Debate, Hackathon"
+R0494,Aarav Sharma,Art Club,Tech Club,Drama Club,"Theater Play, Hackathon, Music Concert"
+R0495,Kabir Verma,Dance Club,Sports Club,Drama Club,"Theater Play, Dance Battle, Painting Workshop, Debate"
+R0496,Kabir Bhat,Drama Club,Literary Club,Dance Club,Hackathon
+R0497,Vivaan Gupta,Tech Club,Music Club,Literary Club,"Theater Play, Hackathon"
+R0498,Ananya Joshi,Music Club,Tech Club,Art Club,"Football Match, Dance Battle, Debate"
+R0499,Vihaan Bhat,Sports Club,Dance Club,Tech Club,"Hackathon, Music Concert, Painting Workshop"
+R0500,Aarav Kumar,Music Club,Drama Club,Literary Club,"Painting Workshop, Dance Battle"
